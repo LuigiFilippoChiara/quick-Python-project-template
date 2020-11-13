@@ -1,3 +1,26 @@
+# Files
+*.7z
+*.bz2
+*.csv
+*.gz
+*.html
+*.jl
+*.jpg
+*.json
+*.jsonl
+*.jsonlines
+*.log
+*.npy
+*.npz
+*.out
+*.pdf
+*.pickle
+*.pkl
+*.png
+*.rar
+*.txt
+*.zip
+
 # PyCharm
 *.idea
 
