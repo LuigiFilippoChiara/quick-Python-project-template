@@ -1,24 +1,37 @@
+# folders
+output/
+data/
+/data
+runs/
+
 # Files
-*.7z
-*.bz2
 *.csv
-*.gz
+*.out
+*.err
 *.html
 *.jl
-*.jpg
 *.json
 *.jsonl
 *.jsonlines
 *.log
 *.npy
 *.npz
-*.out
 *.pdf
 *.pickle
+*.cpkl
 *.pkl
+
+# img files
 *.png
+*.jpg
+*.gif
+
+# compressed files
 *.rar
 *.zip
+*.7z
+*.gz
+*.bz2
 
 # PyCharm
 *.idea
