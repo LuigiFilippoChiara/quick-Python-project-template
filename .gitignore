@@ -18,7 +18,6 @@
 *.pkl
 *.png
 *.rar
-*.txt
 *.zip
 
 # PyCharm
